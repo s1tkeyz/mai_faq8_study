@@ -1,0 +1,46 @@
+{
+    "T0": 293,
+    "P0": 101325,
+    "planet_1_mass": 5.292e+22,
+    "planet_1_radius": 600000,
+    "planet_2_mass": 9.76e+20,
+    "planet_2_radius": 200000,
+    "x0": 424265,
+    "y0": 424265,
+    "delta_time": 1,
+    "stages": [
+        {
+            "empty_mass": 20000,
+            "fuel_mass": 2460,
+            "active_time": 126,
+            "drag_coefficient": 0.438,
+            "surface_area": 4.07,
+            "thrust": 751000,
+            "fuel_consumption": 19.5,
+            "parachute_deploy": -1,
+            "parachute_area": 0
+        },
+        {
+            "empty_mass": 5700,
+            "fuel_mass": 360,
+            "active_time": 60,
+            "drag_coefficient": 0.328,
+            "surface_area": 2.32,
+            "thrust": 186000,
+            "fuel_consumption": 6.1,
+            "parachute_deploy": -1,
+            "parachute_area": 0
+        },
+        {
+            "empty_mass": 800,
+            "fuel_mass": 180,
+            "active_time": 10000,
+            "drag_coefficient": 0.2956,
+            "surface_area": 1.638,
+            "thrust": 15300,
+            "fuel_consumption": 1.6,
+            "parachute_deploy": -1,
+            "parachute_area": 0
+        }
+    ]
+}
